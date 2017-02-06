@@ -2,11 +2,11 @@
 
 ## [0. 交易通识](/Genreal/README.md)
 
-  * [0.1 交易指标](/Genreal/index/README.md)
+  * [0.1 交易指标](/General/index/README.md)
 
-  * [0.2 交易清单](/Genreal/lists.md)
+  * [0.2 交易清单](/General/lists.md)
 
-  * [0.3 资金管理](/Genreal/fundmgt.md)
+  * [0.3 资金管理](/General/fundmgt.md)
 
 
 ## [1. 股票](/Stock/README.md)
